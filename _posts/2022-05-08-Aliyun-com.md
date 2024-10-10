@@ -1,35 +1,19 @@
 ---
 layout: post
-title: Hub.docker.com 免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
+title: Aliyun.com 阿里云ACR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/不可直链
 category: freehosting
-date:   2022-05-10 12:50:00 +0800
+date:   2022-05-08 12:50:00 +0800
 tags:
 - Docker镜像
-background: ../img/post-bg-poem-15.jpg
+background: ../img/post-bg-poem-19.jpg
 ---
 
 ### 官网地址
-https://hub.docker.com/
+https://cr.console.aliyun.com
 
 
-### DockerHub
-1）首先需要注册一个Docker hub账号！记住账号密码后面会用到！
-
-2）然后新建一个仓库。名称随便！
-
-新建仓库网址：https://hub.docker.com/repository/create
-
-在Docker Commands中复制内容（红框）
-
-
-3）打开程序将上面复制的内容粘贴到仓库地址。如果没有提示输入账号密码。
-
-请点击+ 上传一个文件，会触发输入账号密码的界面。
-
-目前Docker Hub下载文件是CloudFlare CDN加速，所以国内速度并不理想！
-
-
-
+### 默认实例版免费说明
+默认实例版面向个人开发者，公测限额免费使用，不承诺对 SLA 的补偿。
 
 ### 开源项目
 https://github.com/xausky/DockerRegisterCloud

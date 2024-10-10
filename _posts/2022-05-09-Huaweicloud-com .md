@@ -1,32 +1,44 @@
 ---
 layout: post
-title: Hub.docker.com 免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
+title: Huaweicloud.com 华为云SWR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
 category: freehosting
-date:   2022-05-10 12:50:00 +0800
+date:   2022-05-09 12:50:00 +0800
 tags:
 - Docker镜像
-background: ../img/post-bg-poem-15.jpg
+background: ../img/post-bg-poem-19.jpg
 ---
 
 ### 官网地址
-https://hub.docker.com/
+https://console.huaweicloud.com/swr
 
 
-### DockerHub
-1）首先需要注册一个Docker hub账号！记住账号密码后面会用到！
+### 华为云
+1）首先注册华为云账号，然后点击链接开通服务！
 
-2）然后新建一个仓库。名称随便！
+2）首先需要创业组织，记住你的组织名称！！
 
-新建仓库网址：https://hub.docker.com/repository/create
+3）右上部分点击【登陆指令】可以看到下面的信息包含用户名 密码 以及仓库主要地址。
 
-在Docker Commands中复制内容（红框）
+-u 后面为用户名
 
+-p 后面为密码
 
-3）打开程序将上面复制的内容粘贴到仓库地址。如果没有提示输入账号密码。
+swr 开头的为仓库主要地址
 
-请点击+ 上传一个文件，会触发输入账号密码的界面。
+真正仓库地址：仓库主要地址/组织名称/仓库名称
 
-目前Docker Hub下载文件是CloudFlare CDN加速，所以国内速度并不理想！
+用户名：cn-north-xxxxxxxxxxxxxx
+
+密码：3834774ed04294ad8a0xxxxxxxxxxxxxxxxxxxxxxca33c408fd509d3
+
+仓库地址：swr.cn-north-4.myhuaweicloud.com/ruyonet-test/demo
+
+PS：仓库名称随意！
+
+华为云使用的是自己的CDN加速！速度还不错！
+
+不过华为云针对登陆指令做了过期时间的限制，有效期只有1天！
+
 
 
 
