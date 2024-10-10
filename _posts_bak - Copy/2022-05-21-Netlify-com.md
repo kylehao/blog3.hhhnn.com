@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Netlify.com 基于Github建立静态网站/100 GB流量/可以绑域名
 tags:
 - Pages

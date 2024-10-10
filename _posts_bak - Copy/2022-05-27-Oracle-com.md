@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Oracle.com 甲骨文免费服务器/10T每月总流量
 tags:
 - VPS

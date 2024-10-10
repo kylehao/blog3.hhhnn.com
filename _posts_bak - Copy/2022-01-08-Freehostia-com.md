@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: 老牌免费空间-Freehostia.com 250M空间/5G流量/PHP/MYSQL/支持绑米
 tags:
 - 虚拟主机

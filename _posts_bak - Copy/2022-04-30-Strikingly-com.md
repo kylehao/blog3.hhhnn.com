@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Strikingly.com 免费自助建站/不能绑域名
 tags:
 - 自助建站

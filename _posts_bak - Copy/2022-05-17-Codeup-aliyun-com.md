@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Codeup.aliyun.com 阿里云云效/WebIDE/10G存储/40G磁盘
 tags:
 - IDE

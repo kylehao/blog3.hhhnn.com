@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: 日本老牌免费空间-Buttobi.net 无限空间/无限流量/php/cgi/不能绑域名
 tags:
 - 虚拟主机

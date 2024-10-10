@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: 微软Teams Exploratory试用/5T OneDrive/免费一年
 tags:
 - Onedrive

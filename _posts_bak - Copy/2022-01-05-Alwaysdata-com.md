@@ -1,6 +1,8 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post
 title: 免费空间-Alwaysdata.com 100M空间/1G流量/支持PHP/需要信用卡
+category: freehosting
+date:   2022-01-05 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费

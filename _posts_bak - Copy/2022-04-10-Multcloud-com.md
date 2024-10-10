@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Multcloud.com 每月5GB流量/网盘互传工具
 tags:
 - 同步工具

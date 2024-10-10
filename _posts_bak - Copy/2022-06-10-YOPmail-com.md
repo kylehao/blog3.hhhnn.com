@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: YOPmail.com 临时免费邮箱地址/可绑域名/测试收不到邮件
 tags:
 - 邮箱

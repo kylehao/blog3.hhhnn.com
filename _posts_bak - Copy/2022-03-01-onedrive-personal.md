@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Office365 1TB/个人版无限续期，最多可延期5年
 tags:
 - Onedrive

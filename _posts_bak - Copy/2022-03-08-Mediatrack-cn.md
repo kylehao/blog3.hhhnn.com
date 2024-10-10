@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Mediatrack.cn 一款音视频协作工具，其实完全可以把它当做网盘使用
 tags:
 - 云盘

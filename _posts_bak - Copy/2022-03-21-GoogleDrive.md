@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Google Drive云端硬盘/国外教育邮箱无限存储版
 tags:
 - 云盘

@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: "老牌免费空间-Kinghost.com 无限空间/无限流量/静态空间/支持绑米"
 date:   2022-01-10 18:05:55 +0300
 background: ../img/02.jpg

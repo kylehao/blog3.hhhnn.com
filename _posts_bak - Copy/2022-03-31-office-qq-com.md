@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Office.qq.com 100G/腾讯TIM/一个月必须登录一次APP
 tags:
 - 企业网盘

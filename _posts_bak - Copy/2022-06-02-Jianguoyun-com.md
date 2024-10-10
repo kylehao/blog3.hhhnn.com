@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Jianguoyun.com 无限容量/上传1GB/下载3GB/坚果云
 tags:
 - 云盘

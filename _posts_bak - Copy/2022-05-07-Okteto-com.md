@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Okteto.com 4核/8G内存/50G硬盘/免费搭建cloudreve教程
 tags:
 - 容器服务

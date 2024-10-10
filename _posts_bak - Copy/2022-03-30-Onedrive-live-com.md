@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Onedrive.live.com 5G/微软云盘个人版、可邀请扩容
 tags:
 - 云盘

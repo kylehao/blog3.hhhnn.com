@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 日本免费空间Ninja.co.jp 500M/支持绑米/支持FTP/日本
-category: code
+category: freehosting
 date:   2022-01-03 12:50:00 +0800
 tags:
 - 虚拟主机

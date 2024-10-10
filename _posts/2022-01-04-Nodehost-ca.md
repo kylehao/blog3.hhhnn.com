@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 加拿大免费空间-Nodehost.ca 50M空间/40GB流量/支持PHP
-category: code
+category: freehosting
 date:   2022-01-04 12:50:00 +0800
 tags:
 - 虚拟主机

@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Render.com 100G流量/从Git进行的自动部署/静态网页免费/支持绑定域名
 tags:
 - Pages

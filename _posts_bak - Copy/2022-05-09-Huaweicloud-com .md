@@ -1,5 +1,5 @@
 ---
-layout: post category: code date:   2022-01-03 12:50:00 +0800
+layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Huaweicloud.com 华为云SWR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
 tags:
 - Docker镜像
