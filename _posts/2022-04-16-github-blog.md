@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github 开源项目零成本搭建个人博客
-category: freehosting
+category: hosting
 date:   2022-04-16 12:50:00 +0800
 tags:
 - 博客

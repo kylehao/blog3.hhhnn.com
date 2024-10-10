@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitbucket.org 1GB/5个用户协作/绑定域名
-category: freehosting
+category: hosting
 date:   2022-04-18 12:50:00 +0800
 tags:
 - 代码托管

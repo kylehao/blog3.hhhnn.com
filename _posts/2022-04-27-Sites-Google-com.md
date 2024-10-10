@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sites.Google.com 谷歌免费自助建站
-category: freehosting
+category: hosting
 date:   2022-04-27 12:50:00 +0800
 tags:
 - 自助建站

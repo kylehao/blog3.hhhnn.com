@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure DevOps微软无限的私人存储库（Git和TFS）/最多5个用户/团队
-category: freehosting
+category: hosting
 date:   2022-04-20 12:50:00 +0800
 tags:
 - 代码托管

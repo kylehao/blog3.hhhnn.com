@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 韩国免费空间-Dothome.co.kr 200M空间/每天300M流量/200M数据库/PHP/MySQL/绑域名
-category: freehosting
+category: hosting
 date:   2022-01-14 12:50:00 +0800
 tags:
 - 虚拟主机

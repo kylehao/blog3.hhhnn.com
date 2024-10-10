@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strikingly.com 免费自助建站/不能绑域名
-category: freehosting
+category: hosting
 date:   2022-04-30 12:50:00 +0800
 tags:
 - 自助建站

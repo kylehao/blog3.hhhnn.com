@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "老牌免费空间-Kinghost.com 无限空间/无限流量/静态空间/支持绑米"
-category: freehosting
+category: hosting
 date:   2022-01-10 18:05:55 +0300
 background: ../img/post-bg-poem-02.jpg
 tags:

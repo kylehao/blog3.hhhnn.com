@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pikapods.com 1/2GB/50GB/1美元月/免费赠送 50 美元
-category: freehosting
+category: hosting
 date:   2022-05-04 12:50:00 +0800
 tags:
 - 容器服务

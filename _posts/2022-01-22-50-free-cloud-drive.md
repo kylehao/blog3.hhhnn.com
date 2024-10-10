@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 50个免费的云盘网盘服务
-category: freehosting
+category: hosting
 date:   2022-01-22 12:50:00 +0800
 tags:
 - 云盘

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jihulab.com 极狐GitLab公司/代码托管
-category: freehosting
+category: hosting
 date:   2022-04-22 12:50:00 +0800
 tags:
 - 代码托管

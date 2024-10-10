@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 老牌免费空间-Neocities.org 1G空间/200G流量/静态网站/不支持绑米
-category: freehosting
+category: hosting
 date:   2022-01-19 12:50:00 +0800
 tags:
 - 虚拟主机

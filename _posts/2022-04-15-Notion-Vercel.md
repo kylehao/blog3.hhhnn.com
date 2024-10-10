@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notion+Vercel搭建博客+cfpages绑定域名加速
-category: freehosting
+category: hosting
 date:   2022-04-15 12:50:00 +0800
 tags:
 - 博客

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Byethost.com 免费分销商空间
-category: freehosting
+category: hosting
 date:   2022-04-24 12:50:00 +0800
 tags:
 - Reseller分销

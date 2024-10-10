@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aliyun.com 阿里云ACR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/不可直链
-category: freehosting
+category: hosting
 date:   2022-05-08 12:50:00 +0800
 tags:
 - Docker镜像

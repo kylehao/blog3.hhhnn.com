@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Railway.app 每个月有5美元的免费使用额度/512 MB RAM/1 GB Disk
-category: freehosting
+category: hosting
 date:   2022-05-03 12:50:00 +0800
 tags:
 - 容器服务

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 老牌免费空间-Freehostia.com 250M空间/5G流量/PHP/MYSQL/支持绑米
-category: freehosting
+category: hosting
 date:   2022-01-08 12:50:00 +0800
 tags:
 - 虚拟主机

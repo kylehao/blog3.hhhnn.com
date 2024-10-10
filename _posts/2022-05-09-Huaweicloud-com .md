@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Huaweicloud.com 华为云SWR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
-category: freehosting
+category: hosting
 date:   2022-05-09 12:50:00 +0800
 tags:
 - Docker镜像

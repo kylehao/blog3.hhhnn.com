@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resellercluster.com Runhosting免费分销
-category: freehosting
+category: hosting
 date:   2022-04-25 12:50:00 +0800
 tags:
 - Reseller分销
