@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Github 开源项目零成本搭建个人博客
 tags:
 - 博客
-background: ../img/08.jpg
+background: ../img/post-bg-poem-08.jpg
 ---
 
 

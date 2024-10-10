@@ -4,7 +4,7 @@ title: 体育NBA直播观看网站合集
 tags:
 - NBA
 - 合集
-background: ../img/09.jpg
+background: ../img/post-bg-poem-09.jpg
 ---
 
 ### 体育NBA直播观看网站合集,NBA直播网站很多，这里列几个比较稳定，广告少的直播网站

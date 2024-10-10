@@ -6,7 +6,7 @@ date:   2022-01-03 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/04.jpg
+background: ../img/post-bg-poem-04.jpg
 ---
 
 ### 500M/支持绑米/支持FTP/日本

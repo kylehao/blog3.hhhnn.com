@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Notion+Vercel搭建博客+cfpages绑定域名加速
 tags:
 - 博客
-background: ../img/07.jpg
+background: ../img/post-bg-poem-07.jpg
 ---
 
 

@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: 50M空间/利用DROPBOX做网站/不能绑域名
 tags:
 - Pages
-background: ../img/13.jpg
+background: ../img/post-bg-poem-13.jpg
 ---
 
 ### 官网地址

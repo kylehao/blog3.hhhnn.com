@@ -6,7 +6,7 @@ date:   2022-01-09 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/06.jpg
+background: ../img/post-bg-poem-06.jpg
 ---
 
 ### 999M空间/无限流量/静态空间/支持绑米

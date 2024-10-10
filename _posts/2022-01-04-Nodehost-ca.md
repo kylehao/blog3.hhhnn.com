@@ -6,7 +6,7 @@ date:   2022-01-04 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/05.jpg
+background: ../img/post-bg-poem-05.jpg
 ---
 
 ### 50M空间/40GB流量/支持PHP/适合安装onemanager

@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Airexplorer.net 使用一个程序访问您的所有云服务
 tags:
 - 同步工具
-background: ../img/04.jpg
+background: ../img/post-bg-poem-04.jpg
 ---
 
 

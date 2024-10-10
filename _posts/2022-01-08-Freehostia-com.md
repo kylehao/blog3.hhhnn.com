@@ -6,7 +6,7 @@ date:   2022-01-08 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/10.jpg
+background: ../img/post-bg-poem-10.jpg
 ---
 
 ### 250M空间/5G流量/PHP/MYSQL/支持绑米

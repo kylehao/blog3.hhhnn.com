@@ -6,7 +6,7 @@ date:   2022-01-02 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/03.jpg
+background: ../img/post-bg-poem-03.jpg
 ---
 
 ### 无限空间/无限流量/php/MySQL/可绑米/德国

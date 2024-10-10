@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Bitqiu.com 400GB/比特球云盘，支持离线下载
 tags:
 - 云盘
-background: ../img/18.jpg
+background: ../img/post-bg-poem-18.jpg
 ---
 
 

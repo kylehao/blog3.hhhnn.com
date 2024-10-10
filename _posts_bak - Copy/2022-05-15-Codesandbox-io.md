@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Codesandbox.io 免费的在线编辑器，用于快速 Web 开发，在线IDE
 tags:
 - IDE
-background: ../img/12.jpg
+background: ../img/post-bg-poem-12.jpg
 ---
 
 ### 官网地址

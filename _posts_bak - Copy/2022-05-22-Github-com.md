@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Github.com 可搭建静态主页，静态博客，可绑米
 tags:
 - Pages
-background: ../img/15.jpg
+background: ../img/post-bg-poem-15.jpg
 ---
 
 ### 官网地址

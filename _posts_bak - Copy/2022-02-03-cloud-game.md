@@ -4,7 +4,7 @@ title: 云游戏平台合集
 tags:
 - 游戏
 - 合集
-background: ../img/08.jpg
+background: ../img/post-bg-poem-08.jpg
 ---
 
 ### 云游戏平台合集

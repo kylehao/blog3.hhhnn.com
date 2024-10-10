@@ -6,7 +6,7 @@ date:   2022-01-05 12:50:00 +0800
 tags:
 - 虚拟主机
 - 免费
-background: ../img/07.jpg
+background: ../img/post-bg-poem-07.jpg
 ---
 
 ### 100M空间/1G流量/支持PHP/需要信用卡

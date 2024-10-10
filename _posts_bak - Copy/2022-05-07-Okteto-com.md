@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Okteto.com 4核/8G内存/50G硬盘/免费搭建cloudreve教程
 tags:
 - 容器服务
-background: ../img/15.jpg
+background: ../img/post-bg-poem-15.jpg
 ---
 
 ### 官网地址
@@ -28,7 +28,7 @@ services:<br>
     cloudreve:<br>
         public: true<br>
         container_name: dreve<br>
-        background: ../img/jialezi/cloudreve<br>
+        background: ../img/post-bg-poem-jialezi/cloudreve<br>
         ports:<br>
             - 5212:5212<br>
         volumes:<br>

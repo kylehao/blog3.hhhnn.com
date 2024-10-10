@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Alist通过webdav挂载世纪互联，没有API的世纪互联有救了
 tags:
 - 自建网盘
-background: ../img/16.jpg
+background: ../img/post-bg-poem-16.jpg
 ---
 
 

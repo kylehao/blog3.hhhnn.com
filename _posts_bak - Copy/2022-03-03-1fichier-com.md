@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: 1fichier.com 1T容量，支持FTP上传和离线下载
 tags:
 - 云盘
-background: ../img/13.jpg
+background: ../img/post-bg-poem-13.jpg
 ---
 
 

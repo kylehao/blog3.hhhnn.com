@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Migadu.com 免费邮箱转发服务
 tags:
 - 邮箱
-background: ../img/15.jpg
+background: ../img/post-bg-poem-15.jpg
 ---
 
 ### 官网地址

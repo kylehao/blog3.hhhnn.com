@@ -4,7 +4,7 @@ title: 老牌免费空间-Neocities.org 1G空间/200G流量/静态网站/不支�
 tags:
 - 虚拟主机
 - 免费
-background: ../img/10.jpg
+background: ../img/post-bg-poem-10.jpg
 ---
 
 ### 1G空间/200G流量/静态网站/不支持绑米

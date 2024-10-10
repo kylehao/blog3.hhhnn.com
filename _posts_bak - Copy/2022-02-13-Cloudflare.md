@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Cloudflare.com免费CDN/免费域名解析
 tags:
 - 免费CDN
-background: ../img/10.jpg
+background: ../img/post-bg-poem-10.jpg
 ---
 
 

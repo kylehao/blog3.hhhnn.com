@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: aapanel部署微软OneDrive – 从宝塔面板移植OD插件
 tags:
 - aapanel
-background: ../img/24.jpg
+background: ../img/post-bg-poem-24.jpg
 ---
 
 

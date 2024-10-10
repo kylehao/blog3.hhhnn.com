@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Lofter.com 网易免费轻博客
 tags:
 - 博客
-background: ../img/17.jpg
+background: ../img/post-bg-poem-17.jpg
 ---
 
 

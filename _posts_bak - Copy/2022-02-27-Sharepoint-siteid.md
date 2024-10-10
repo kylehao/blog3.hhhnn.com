@@ -4,7 +4,7 @@ title: Sharepoint获取siteid方法，支持世纪互联
 tags:
 - Onedrive
 - 云盘
-background: ../img/25.jpg
+background: ../img/post-bg-poem-25.jpg
 ---
 
 

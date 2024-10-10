@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: NotABug.org 是用于基于Git的免费许可项目的免费软件代码协作平台
 tags:
 - 代码托管
-background: ../img/25.jpg
+background: ../img/post-bg-poem-25.jpg
 ---
 
 

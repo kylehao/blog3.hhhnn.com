@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: value-domain.com 日本免费dns解析服务
 tags:
 - 域名解析
-background: ../img/21.jpg
+background: ../img/post-bg-poem-21.jpg
 ---
 
 

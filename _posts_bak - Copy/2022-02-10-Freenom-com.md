@@ -4,7 +4,7 @@ title: 全球唯一一家免费顶级域名Freenom.com
 tags:
 - 域名
 - 免费
-background: ../img/13.jpg
+background: ../img/post-bg-poem-13.jpg
 ---
 
 ### 支持以下后缀，最长可以注册一年，每年需要重新延期一次。<br>

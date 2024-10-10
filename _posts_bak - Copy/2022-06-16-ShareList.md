@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: ShareList快速挂载GoogleDrive、OneDrive、天翼云、蓝奏云等网盘同时挂载
 tags:
 - 自建网盘
-background: ../img/20.jpg
+background: ../img/post-bg-poem-20.jpg
 ---
 
 

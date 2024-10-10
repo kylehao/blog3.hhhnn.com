@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Weebly.com 自助建站/不能绑域名
 tags:
 - 自助建站
-background: ../img/23.jpg
+background: ../img/post-bg-poem-23.jpg
 ---
 
 

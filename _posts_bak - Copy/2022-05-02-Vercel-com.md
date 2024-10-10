@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Vercel.com 免费容器服务/支持绑定域名
 tags:
 - 容器服务
-background: ../img/12.jpg
+background: ../img/post-bg-poem-12.jpg
 ---
 
 

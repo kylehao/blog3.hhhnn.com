@@ -4,7 +4,7 @@ title: 韩国免费空间-Dothome.co.kr 200M空间/每天300M流量/200M数据�
 tags:
 - 虚拟主机
 - 免费
-background: ../img/06.jpg
+background: ../img/post-bg-poem-06.jpg
 ---
 
 ### 200M空间/每天300M流量/200M数据库/PHP/MySQL/绑域名

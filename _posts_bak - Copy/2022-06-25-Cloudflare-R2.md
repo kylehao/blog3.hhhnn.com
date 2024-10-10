@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Cloudflare对象存储R2配置
 tags:
 - 对象存储
-background: ../img/25.jpg
+background: ../img/post-bg-poem-25.jpg
 ---
 
 

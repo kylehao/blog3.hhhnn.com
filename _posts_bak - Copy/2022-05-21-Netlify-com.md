@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Netlify.com 基于Github建立静态网站/100 GB流量/可以绑域名
 tags:
 - Pages
-background: ../img/08.jpg
+background: ../img/post-bg-poem-08.jpg
 ---
 
 ### 官网地址

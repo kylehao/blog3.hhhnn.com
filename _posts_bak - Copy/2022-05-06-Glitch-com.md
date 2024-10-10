@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Glitch.com 免费无限制公共/私人托管/具有代码共享和实时协作等功能的
 tags:
 - 容器服务
-background: ../img/10.jpg
+background: ../img/post-bg-poem-10.jpg
 ---
 
 ### 官网地址

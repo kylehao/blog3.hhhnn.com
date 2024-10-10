@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Backblaze.com 10GB/1G流量/免费B2对象云存储
 tags:
 - 对象存储
-background: ../img/14.jpg
+background: ../img/post-bg-poem-14.jpg
 ---
 
 

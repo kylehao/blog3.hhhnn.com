@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: OfficeAdmin全自动一条龙程序/90天至少访问一次各盘的前台或后台，以获取新token
 tags:
 - Onedrive
-background: ../img/19.jpg
+background: ../img/post-bg-poem-19.jpg
 ---
 
 

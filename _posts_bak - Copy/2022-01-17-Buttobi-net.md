@@ -4,7 +4,7 @@ title: 日本老牌免费空间-Buttobi.net 无限空间/无限流量/php/cgi/�
 tags:
 - 虚拟主机
 - 免费
-background: ../img/08.jpg
+background: ../img/post-bg-poem-08.jpg
 ---
 
 ### 无限空间/无限流量/php/cgi/不能绑域名

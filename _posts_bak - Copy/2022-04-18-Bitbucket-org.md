@@ -4,7 +4,7 @@ title: Bitbucket.org 1GB/5个用户协作/绑定域名
 tags:
 - 代码托管
 - Pages
-background: ../img/18.jpg
+background: ../img/post-bg-poem-18.jpg
 ---
 
 

@@ -4,7 +4,7 @@ title: Telegram bot电报机器人合集
 tags:
 - Telegram
 - 合集
-background: ../img/02.jpg
+background: ../img/post-bg-poem-02.jpg
 ---
 
 ### Telegram bot电报机器人合集

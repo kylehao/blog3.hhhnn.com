@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Cloudflare-Zero Trust 免费内网穿透
 tags:
 - 内网穿透
-background: ../img/21.jpg
+background: ../img/post-bg-poem-21.jpg
 ---
 
 

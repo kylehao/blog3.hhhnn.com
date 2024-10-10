@@ -3,7 +3,7 @@ layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
 title: Oracle.com 甲骨文免费服务器/10T每月总流量
 tags:
 - VPS
-background: ../img/24.jpg
+background: ../img/post-bg-poem-24.jpg
 ---
 
 ### 申请地址
