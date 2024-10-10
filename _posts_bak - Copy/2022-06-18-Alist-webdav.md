@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: 阿里云盘变身为webdav协议的文件服务器
 tags:
 - 自建网盘

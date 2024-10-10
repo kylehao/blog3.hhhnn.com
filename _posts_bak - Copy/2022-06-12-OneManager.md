@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: OneManager-php Onedrive目录直读程序
 tags:
 - 自建网盘

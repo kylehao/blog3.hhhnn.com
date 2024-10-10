@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Bluemix.net IBM提供的256M/IBM Cloud Lite/10天无开发活动自动休眠
 tags:
 - VPS

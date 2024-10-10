@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Weiyun.com 10G/腾讯微云/与QQ、微信深度集成
 tags:
 - 云盘

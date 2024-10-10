@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: CloudFlare – 使用API修改CloudFlare NS记录方法
 tags:
 - 免费CDN

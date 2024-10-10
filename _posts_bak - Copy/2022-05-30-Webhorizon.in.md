@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Webhorizon.in 印度公司提供的1核/256M/4GB/500GB/20端口/每年6刀/NAT服务器
 tags:
 - VPS

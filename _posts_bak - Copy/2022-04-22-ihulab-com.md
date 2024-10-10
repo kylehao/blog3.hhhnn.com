@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Jihulab.com 极狐GitLab公司/代码托管
 tags:
 - 代码托管

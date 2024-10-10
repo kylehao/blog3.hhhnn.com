@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Github 开源项目零成本搭建个人博客
 tags:
 - 博客

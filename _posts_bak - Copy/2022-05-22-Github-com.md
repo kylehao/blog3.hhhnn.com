@@ -1,5 +1,5 @@
 ---
-layout: post category: freehosting date:   2022-01-03 12:50:00 +0800
+layout: post
 title: Github.com 可搭建静态主页，静态博客，可绑米
 tags:
 - Pages
